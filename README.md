@@ -27,13 +27,13 @@ Sebelum mengolah data, kita siapkan dulu local spark contextnya,
 
   1. File Reader
   
-    Pada data preparation untuk file reader, berikut adalah workflow yang dijalankan.
+   Pada data preparation untuk file reader, berikut adalah workflow yang dijalankan.
   
   ![alt](screenshot/0.png)
   
   ![alt](screenshot/1.png)
   
-    Pada konfigurasi untuk file reader, saya membaca suatu table yang didownload sebelumnya, yaitu movies.csv.
+   Pada konfigurasi untuk file reader, saya membaca suatu table yang didownload sebelumnya, yaitu movies.csv.
     
   ![alt](screenshot/2.png)
   
